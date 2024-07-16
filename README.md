@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrelozaa&label=Profile%20views&color=0e75b6&style=flat" alt="andrelozaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AndreLozaA" alt="AndreLozaA" /></a> </p>
+<p align="left"> <a href="https://github.com/andreLozaA/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andreLozaA" alt="andreLozaA" /></a> </p>
 
 - 🤝 I’m looking for help with **your proyects**
 
