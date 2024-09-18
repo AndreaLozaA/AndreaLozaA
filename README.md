@@ -1,6 +1,6 @@
 # AndreaLozaA
 <h1 align="center">Hi 👋, I'm Andrea Loza</h1>
-<h3 align="center">a developer from Bolivia</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrelozaa&label=Profile%20views&color=0e75b6&style=flat" alt="andreaLozaA" /> </p>
 
