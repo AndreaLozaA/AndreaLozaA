@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Andrea Loza</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrelozaa&label=Profile%20views&color=0e75b6&style=flat" alt="andreaLozaA" /> </p>
-
 
 - 🤝 I’m looking for help with **your proyects**
 
